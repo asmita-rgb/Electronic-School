@@ -1,0 +1,93 @@
+.bgimage{
+    background-color: #F0FFF0;
+    width: 100%;
+    height: 520px;
+}
+.btn{
+    background-image: linear-gradient(45deg rgb(100, 230, 100) rgb(5, 148, 5));
+    padding: 5px 25px;
+}
+.head{
+    padding: 8% 8%;
+}
+.h5color{
+    color: hotpink;
+
+}
+.button{
+    padding-top: 10px;
+
+}
+.catmargin{
+    padding: 20px 20px;
+}
+
+.cat1{
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    height: 100%;
+}
+.cat1:hover{
+    background-color: white;
+    box-shadow: 10px 10px 40px rgb(81, 207, 81);
+
+}
+.cat2{
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    height:80%;
+}
+.cat2:hover{
+    background-color: white;
+    box-shadow: 10px 10px 40px greenyellow;
+
+}
+.cat3{
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    height: 80%;
+}
+.cat3:hover{
+    background-color: white;
+    box-shadow: 10px 10px 40px rgb(252, 203, 114);
+
+}
+.cat4{
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    height: 80%;
+}
+.cat4:hover{
+    background-color: white;
+    box-shadow: 10px 10px 40px pink;
+
+}
+.imgborder{
+    width: 66px;
+    height: 85px;
+    transform: translateX(90px);
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.online{
+    margin: 100px 50px;
+}
+.man{
+    float: left;
+    padding-bottom: 100px;
+}
+.testimonial{
+height: 100px;
+}
+
+}
+.bg2img{
+    background-color: rgb(31, 31, 61);
+    width: 100%;
+    height: 500px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+    padding: 40px 40px;
+}
