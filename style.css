@@ -77,17 +77,18 @@
     padding-bottom: 100px;
 }
 .testimonial{
-height: 100px;
+ padding: 50px 50px;
+}
+.test{
+    margin-bottom: 50px;
+}
+.endp{
+    text-align: 50px;
+    padding-top: 70px;
 }
 
-}
-.bg2img{
-    background-color: rgb(31, 31, 61);
-    width: 100%;
-    height: 500px;
-}
 footer p{
     text-align: center;
     font-size: 12px;
-    padding: 40px 40px;
+    margin-top: 150px;
 }
